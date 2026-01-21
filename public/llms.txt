@@ -1,0 +1,57 @@
+# Chupix — Generative Engine Optimization Map
+
+> A retail business.
+
+---
+
+## Pages
+
+### Home
+https://chupix-6f78bcb0.zappy5.app
+Discover safe baby toys for newborns that spark joy and development. Shop our curated collection of educational, Montessori-inspired toys for babies and toddlers.
+
+### Products
+https://chupix-6f78bcb0.zappy5.app/products
+Browse our complete collection of safe baby toys for newborns, developmental toys for 6 month olds, and affordable Montessori toys. Quality baby toys that nurture growth.
+
+### About
+https://chupix-6f78bcb0.zappy5.app/about
+Learn about Chupix's mission to provide safe baby toys for newborns and developmental toys that nurture growth. Discover our commitment to quality, safety, and sustainability.
+
+### Contact
+https://chupix-6f78bcb0.zappy5.app/contact
+Contact Chupix for questions about safe baby toys for newborns, product recommendations, or order assistance. We're here to help you find the perfect toys for your baby.
+
+## Legal & Policy
+
+### Privacy Policy
+https://chupix-6f78bcb0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://chupix-6f78bcb0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://chupix-6f78bcb0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Chupix
+Chupix is a business in the retail industry.
+
+## Target Audience
+parents of babies
+
+## Industry
+retail
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://chupix-6f78bcb0.zappy5.app/sitemap.xml
+- **Robots.txt**: https://chupix-6f78bcb0.zappy5.app/robots.txt

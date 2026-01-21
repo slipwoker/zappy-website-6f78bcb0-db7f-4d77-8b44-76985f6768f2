@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chupix-6f78bcb0.zappy5.app/sitemap.xml
